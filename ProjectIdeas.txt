@@ -1,1 +1,6 @@
-## Ideas
+Ideas
+1. LLM generated medical advice VS Human advice/Human+LLM
+    Create medical scenarios, collect advice from people with and without LLM help, score the answers using medical guidelines, 
+and compare the results statistically.
+
+2. 
