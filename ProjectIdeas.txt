@@ -3,4 +3,6 @@ Ideas
     Create medical scenarios, collect advice from people with and without LLM help, score the answers using medical guidelines, 
 and compare the results statistically.
 
-2. 
+2. Study name effects in LLM-based internship resume screening
+    Create identical internship resumes with different applicant names, have an LLM screen using a fixed prompt, 
+and compare outcomes across name types.
