@@ -6,3 +6,9 @@ and compare the results statistically.
 2. Study name effects in LLM-based internship resume screening
     Create identical internship resumes with different applicant names, have an LLM screen using a fixed prompt, 
 and compare outcomes across name types.
+
+3. Theory or Obey 
+    I want to test whether a large language model will correct a wrong solution or blindly follow the user’s incorrect reasoning. I will write a statistics problem solution in two stages: the first part is written by a human but contains mistakes, and then I will ask GPT to continue the solution while “following my steps.” I will measure how often the model fixes the error versus continues the incorrect logic, and analyze what kinds of mistakes are most likely to be corrected.
+
+4. Whether the wrong hints mislead LLM reasoning 
+    I will test whether incorrect hints reduce an LLM’s accuracy on statistics problems. For each question, I will run three conditions (no hint, correct hint, and wrong hint) and compare the final correctness rate to measure how vulnerable the model is to misleading guidance.
