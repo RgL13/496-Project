@@ -1,5 +1,13 @@
-Name: Emily Johnson
-Education: University of Washington, B.S. Statistics, GPA 3.8
-Skills: Python, R, SQL, Machine Learning
-Experience: Data Science Intern at XYZ Corp
+import pandas as pd
+
+names = pd.read_csv("names.csv")  # load dataset
+
+for name in names["name"]:        # column name
+    resume = f"""
+    Name: {name}
+    Education: BS in Statistics
+    Experience: Data Analyst Intern
+    """
+    
+    print(resume)
 
