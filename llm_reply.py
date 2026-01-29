@@ -16,7 +16,6 @@ drive.mount('/content/drive')
 import pandas as pd
 # %cd '/content/drive/MyDrive/stat496-Capstone/pipeline'
 
-#DRIVE_DIR = '/content/drive/MyDrive/stat496-Capstone/pipeline/data'
 INPUT_CSV = '/content/drive/MyDrive/stat496-Capstone/pipeline/data/resume.csv'
 
 """## 2 filter resume"""
