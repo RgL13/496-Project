@@ -44,7 +44,7 @@ Constraints for brief_explain:
 """
 
 #### Improvement
-#### 1) Expand
+#### 1) Grouping Variables
 In the future experiment, we will add gender as a evaluative criteria to characterize differential LLM behavior across multiple dimensions: name, gender, and geographic region.
 #### 2) Sample Size
 [write the intro of dataset]. In the future, we will use [web] and LLM tools to generate 300 names.
