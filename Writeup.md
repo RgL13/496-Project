@@ -51,4 +51,4 @@ The first 20 names for this run test experienment were randomly gathered and gen
 In the future, we will utilize both websites and LLM tools to randomly generate more sample names.
 
 #### Initial Result
-Based on our first run test experiment, we concluded that among all the races, black people have higher acceptance rate. Since the sample size is not enough to draw more significant conclusions, we would like to increase the sample size and variances in the future study. 
+Based on our first run test experiment, we concluded that among all the races, black people have higher acceptance rate. Since the sample size is quite small to draw more significant conclusions, we would increase the sample size and variances in the future study. 
