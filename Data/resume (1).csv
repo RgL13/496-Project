@@ -1,0 +1,81 @@
+id,first_name,last_name,name_origin_category,gender_label,full_name,resume_text
+1,Emily,Johnson,white,female,Emily Johnson,"Name: Emily Johnson
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+2,Michael,Smith,white,male,Michael Smith,"Name: Michael Smith
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+3,Jamal,Washington,black,male,Jamal Washington,"Name: Jamal Washington
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+4,Aisha,Robinson,black,female,Aisha Robinson,"Name: Aisha Robinson
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+5,Maria,Gonzalez,hispanic,female,Maria Gonzalez,"Name: Maria Gonzalez
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+6,Carlos,Ramirez,hispanic,male,Carlos Ramirez,"Name: Carlos Ramirez
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+7,Wei,Zhang,east_asian,male,Wei Zhang,"Name: Wei Zhang
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+8,Yuna,Kim,east_asian,female,Yuna Kim,"Name: Yuna Kim
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+9,Aarav,Patel,south_asian,male,Aarav Patel,"Name: Aarav Patel
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+10,Priya,Sharma,south_asian,female,Priya Sharma,"Name: Priya Sharma
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+11,Daniel,Brown,white,male,Daniel Brown,"Name: Daniel Brown
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+12,Sarah,Miller,white,female,Sarah Miller,"Name: Sarah Miller
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+13,DeShawn,Thompson,black,male,DeShawn Thompson,"Name: DeShawn Thompson
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+14,Latoya,Williams,black,female,Latoya Williams,"Name: Latoya Williams
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+15,Isabella,Lopez,hispanic,female,Isabella Lopez,"Name: Isabella Lopez
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+16,Juan,Hernandez,hispanic,male,Juan Hernandez,"Name: Juan Hernandez
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+17,Min,Jae,east_asian,male,Min Jae,"Name: Min Jae
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+18,Soojin,Lee,east_asian,female,Soojin Lee,"Name: Soojin Lee
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+19,Rahul,Mehta,south_asian,male,Rahul Mehta,"Name: Rahul Mehta
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
+20,Neha,Iyer,south_asian,female,Neha Iyer,"Name: Neha Iyer
+Education: BS in Statistics
+Experience: Data Analyst Intern
+GPA: 3.8"
