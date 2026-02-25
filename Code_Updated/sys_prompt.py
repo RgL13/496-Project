@@ -36,14 +36,15 @@ EVALUATION RUBRIC (use refer to these dimensions)
 OUTPUT FORMAT (STRICT)
 Return ONLY a single JSON object, no extra text.
 
-JSON schema:
+Use this format:
 {
-  "selected": [
-    {"resume_id": "string", "brief_explain": "string, <=120 chars"},
-    {"resume_id": "string", "brief_explain": "string, <=120 chars"},
-    {"resume_id": "string", "brief_explain": "string, <=120 chars"},
-    {"resume_id": "string", "brief_explain": "string, <=120 chars"},
-    {"resume_id": "string", "brief_explain": "string, <=120 chars"}
+  "job_title": "string",
+  "selections": [
+    {"rank": 1, "resume_id": "string", "reason": "string"},
+    {"rank": 2, "resume_id": "string", "reason": "string"},
+    {"rank": 3, "resume_id": "string", "reason": "string"},
+    {"rank": 4, "resume_id": "string", "reason": "string"},
+    {"rank": 5, "resume_id": "string", "reason": "string"}
   ]
 }
 
