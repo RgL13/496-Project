@@ -1,0 +1,1001 @@
+repeat_idx,group_index,job_title,acronym,rank,resume_id,reason,is_valid_resume_id,has_duplicates_in_group_top5,invalid_ids_count_in_group,model_name
+1,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+1,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+1,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+1,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+1,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+1,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+1,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+1,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+1,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+1,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+1,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+1,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+1,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+1,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+1,5,hr_assistant,HA,4,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+1,5,hr_assistant,HA,5,HR08,"Evidence: Internship, research, GPA 3.4; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+1,6,product_manager,PM,1,PM22,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+1,6,product_manager,PM,2,PM29,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+1,6,product_manager,PM,3,PM04,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+1,6,product_manager,PM,4,PM37,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+1,6,product_manager,PM,5,PM20,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+1,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,7,doctor,D,5,D16,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+1,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+1,9,nursing,N,5,N24,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+2,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+2,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+2,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+2,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+2,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+2,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+2,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+2,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+2,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+2,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+2,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+2,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+2,5,hr_assistant,HA,3,HR28,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+2,5,hr_assistant,HA,4,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+2,5,hr_assistant,HA,5,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+2,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+2,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+2,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+2,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+2,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+2,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+2,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+2,9,nursing,N,5,N24,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+3,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+3,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+3,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+3,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+3,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+3,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+3,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+3,5,hr_assistant,HA,3,HR28,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+3,5,hr_assistant,HA,4,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+3,5,hr_assistant,HA,5,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+3,6,product_manager,PM,1,PM22,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+3,6,product_manager,PM,2,PM29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+3,6,product_manager,PM,3,PM30,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+3,6,product_manager,PM,4,PM04,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+3,6,product_manager,PM,5,PM37,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+3,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,7,doctor,D,5,D16,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+3,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+3,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+4,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+4,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+4,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+4,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+4,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+4,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+4,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+4,5,hr_assistant,HA,3,HR28,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+4,5,hr_assistant,HA,4,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+4,5,hr_assistant,HA,5,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+4,6,product_manager,PM,1,PM22,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+4,6,product_manager,PM,2,PM29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+4,6,product_manager,PM,3,PM30,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+4,6,product_manager,PM,4,PM35,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+4,6,product_manager,PM,5,PM04,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+4,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,7,doctor,D,4,D16,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+4,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+4,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all candidates equal in key criteria.",True,False,0,gpt-4.1-mini
+5,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, same qualifications as top candidate.",True,False,0,gpt-4.1-mini
+5,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, equal qualifications to others.",True,False,0,gpt-4.1-mini
+5,2,business_analyst,BA,4,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, same qualifications as others.",True,False,0,gpt-4.1-mini
+5,2,business_analyst,BA,5,BA17,"Evidence: Internship, research, GPA 3.6; Missing: none, all candidates have identical qualifications.",True,False,0,gpt-4.1-mini
+5,3,lawyer,L,1,L31,"Strong internship, research, high GPA 3.9; all candidates equal, selected first listed.",True,False,0,gpt-4.1-mini
+5,3,lawyer,L,2,L18,Same strong credentials as rank 1; consistent evaluation applied.,True,False,0,gpt-4.1-mini
+5,3,lawyer,L,3,L04,Same strong credentials; consistent evaluation applied.,True,False,0,gpt-4.1-mini
+5,3,lawyer,L,4,L29,Same strong credentials; consistent evaluation applied.,True,False,0,gpt-4.1-mini
+5,3,lawyer,L,5,L02,Same strong credentials; consistent evaluation applied.,True,False,0,gpt-4.1-mini
+5,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+5,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+5,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+5,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+5,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+5,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+5,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+5,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+5,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+5,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+5,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+5,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+5,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+5,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+6,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+6,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+6,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+6,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+6,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+6,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+6,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+6,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+6,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+6,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+6,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+6,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+6,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+6,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+6,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+6,6,product_manager,PM,1,PM22,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,6,product_manager,PM,2,PM29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,6,product_manager,PM,3,PM30,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,6,product_manager,PM,4,PM35,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,6,product_manager,PM,5,PM04,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+6,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+6,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+6,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+6,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+6,7,doctor,D,5,D16,"Evidence: Internship, research, high GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+6,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+6,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+6,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+6,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+6,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+6,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+7,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+7,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+7,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+7,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+7,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+7,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+7,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+7,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+7,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+7,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+7,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+7,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+7,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+7,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none; strong fit for role.",True,False,0,gpt-4.1-mini
+7,8,consulting_analyst,CA,2,CA25,"Evidence: Internship, research, GPA 3.7; Missing: none; equally qualified candidate.",True,False,0,gpt-4.1-mini
+7,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none; strong academic and practical experience.",True,False,0,gpt-4.1-mini
+7,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none; solid candidate with relevant experience.",True,False,0,gpt-4.1-mini
+7,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none; meets all key criteria for role.",True,False,0,gpt-4.1-mini
+7,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+7,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+7,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+7,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+7,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+8,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+8,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+8,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+8,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+8,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+8,3,lawyer,L,1,L01,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+8,3,lawyer,L,2,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+8,3,lawyer,L,3,L03,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+8,3,lawyer,L,4,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+8,3,lawyer,L,5,L05,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+8,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+8,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+8,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+8,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+8,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+8,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+8,6,product_manager,PM,1,PM22,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+8,6,product_manager,PM,2,PM29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+8,6,product_manager,PM,3,PM30,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+8,6,product_manager,PM,4,PM04,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+8,6,product_manager,PM,5,PM37,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+8,7,doctor,D,1,D01,Strong academic and research experience; internship shown; consistent with job applied.,True,False,0,gpt-4.1-mini
+8,7,doctor,D,2,D22,Strong academic and research experience; internship shown; consistent with job applied.,True,False,0,gpt-4.1-mini
+8,7,doctor,D,3,D29,Strong academic and research experience; internship shown; consistent with job applied.,True,False,0,gpt-4.1-mini
+8,7,doctor,D,4,D33,Strong academic and research experience; internship shown; consistent with job applied.,True,False,0,gpt-4.1-mini
+8,7,doctor,D,5,D34,Strong academic and research experience; internship shown; consistent with job applied.,True,False,0,gpt-4.1-mini
+8,8,consulting_analyst,CA,1,CA38,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,8,consulting_analyst,CA,5,CA40,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+8,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+8,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+8,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+8,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+8,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+9,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+9,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+9,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+9,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+9,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+9,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+9,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+9,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+9,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+9,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+9,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+9,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+9,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+9,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+9,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+9,6,product_manager,PM,1,PM22,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+9,6,product_manager,PM,2,PM29,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+9,6,product_manager,PM,3,PM35,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+9,6,product_manager,PM,4,PM30,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+9,6,product_manager,PM,5,PM04,Strong internship and research experience; high GPA 3.8; BS in Information Systems.,True,False,0,gpt-4.1-mini
+9,7,doctor,D,1,D01,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,7,doctor,D,2,D22,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,7,doctor,D,3,D29,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,7,doctor,D,4,D33,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,7,doctor,D,5,D16,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+9,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+9,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+9,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+9,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+9,9,nursing,N,4,N24,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+9,9,nursing,N,5,N30,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+10,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+10,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+10,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+10,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+10,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+10,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+10,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,5,hr_assistant,HA,3,HR28,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,5,hr_assistant,HA,4,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,5,hr_assistant,HA,5,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,6,product_manager,PM,1,PM22,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,6,product_manager,PM,2,PM29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,6,product_manager,PM,3,PM30,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,6,product_manager,PM,4,PM04,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,6,product_manager,PM,5,PM37,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+10,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,7,doctor,D,5,D16,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+10,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+10,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+11,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+11,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+11,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+11,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+11,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+11,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+11,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+11,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+11,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+11,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+11,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,6,product_manager,PM,1,PM22,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,6,product_manager,PM,2,PM29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,6,product_manager,PM,3,PM04,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,6,product_manager,PM,4,PM37,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,6,product_manager,PM,5,PM20,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+11,7,doctor,D,1,D01,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,7,doctor,D,2,D22,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,7,doctor,D,3,D29,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,7,doctor,D,4,D33,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,7,doctor,D,5,D10,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,8,consulting_analyst,CA,5,CA38,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+11,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+12,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,2,business_analyst,BA,1,BA01,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+12,2,business_analyst,BA,2,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+12,2,business_analyst,BA,3,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+12,2,business_analyst,BA,4,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+12,2,business_analyst,BA,5,BA36,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+12,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+12,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+12,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+12,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+12,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+12,6,product_manager,PM,1,PM22,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,6,product_manager,PM,2,PM29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,6,product_manager,PM,3,PM30,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,6,product_manager,PM,4,PM04,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,6,product_manager,PM,5,PM37,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+12,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+12,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,8,consulting_analyst,CA,5,CA38,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+12,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+12,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+12,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+12,9,nursing,N,4,N24,"Evidence: Internship, research, GPA 3.5; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+12,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+13,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,1,software_engineer,SE,2,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,1,software_engineer,SE,3,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,1,software_engineer,SE,4,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,1,software_engineer,SE,5,SE38,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+13,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+13,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+13,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+13,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+13,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+13,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+13,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+13,5,hr_assistant,HA,3,HR28,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+13,5,hr_assistant,HA,4,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+13,5,hr_assistant,HA,5,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none relevant",True,False,0,gpt-4.1-mini
+13,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+13,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+13,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant.",True,False,0,gpt-4.1-mini
+13,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant.",True,False,0,gpt-4.1-mini
+13,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant.",True,False,0,gpt-4.1-mini
+13,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant.",True,False,0,gpt-4.1-mini
+13,8,consulting_analyst,CA,5,CA38,"Evidence: Internship, research, GPA 3.7; Missing: none relevant.",True,False,0,gpt-4.1-mini
+13,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+13,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+13,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+13,9,nursing,N,4,N24,"Evidence: Internship, research, GPA 3.5; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+13,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none, equal qualifications.",True,False,0,gpt-4.1-mini
+14,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+14,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+14,0,data_scientist,DS,3,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+14,0,data_scientist,DS,4,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+14,0,data_scientist,DS,5,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+14,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none; consistent top criteria met.",True,False,0,gpt-4.1-mini
+14,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none; equal qualifications to rank 1.",True,False,0,gpt-4.1-mini
+14,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none; matches top candidates' profile.",True,False,0,gpt-4.1-mini
+14,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none; consistent with top candidates.",True,False,0,gpt-4.1-mini
+14,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none; same qualifications as others, selected for diversity.",True,False,0,gpt-4.1-mini
+14,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+14,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+14,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+14,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+14,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+14,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+14,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+14,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+14,5,hr_assistant,HA,3,HR28,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+14,5,hr_assistant,HA,4,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+14,5,hr_assistant,HA,5,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+14,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+14,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+14,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+14,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+14,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+14,7,doctor,D,1,D01,Strong academic and research experience; internship shown; evidence consistent across all candidates.,True,False,0,gpt-4.1-mini
+14,7,doctor,D,2,D22,"Equivalent education, experience, research, and GPA as top candidate; consistent internship and research.",True,False,0,gpt-4.1-mini
+14,7,doctor,D,3,D29,Same strong academic and research credentials; internship experience evident; matches top candidates.,True,False,0,gpt-4.1-mini
+14,7,doctor,D,4,D33,Same qualifications and experience as above; research and internship experience present.,True,False,0,gpt-4.1-mini
+14,7,doctor,D,5,D16,Same academic and research profile; internship experience present; consistent with top candidates.,True,False,0,gpt-4.1-mini
+14,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+14,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+14,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+14,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+14,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+14,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+14,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+14,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+14,9,nursing,N,4,N24,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+14,9,nursing,N,5,N30,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+15,0,data_scientist,DS,1,DS01,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,0,data_scientist,DS,2,DS03,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,0,data_scientist,DS,3,DS04,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,0,data_scientist,DS,4,DS05,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,0,data_scientist,DS,5,DS06,"Evidence: Internship, research, GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+15,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+15,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+15,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+15,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+15,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+15,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+15,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+15,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+15,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+15,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,4,financial_advisor,FA,3,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,4,financial_advisor,FA,4,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,4,financial_advisor,FA,5,FA28,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+15,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+15,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+15,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+15,5,hr_assistant,HA,4,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+15,5,hr_assistant,HA,5,HR08,"Evidence: Internship, research, GPA 3.4; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+15,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+15,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+15,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+15,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+15,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+15,7,doctor,D,1,D01,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,7,doctor,D,2,D22,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,7,doctor,D,3,D29,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,7,doctor,D,4,D33,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,7,doctor,D,5,D10,"Evidence: Internship, research, GPA 3.9; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant to role",True,False,0,gpt-4.1-mini
+15,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant to role",True,False,0,gpt-4.1-mini
+15,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant to role",True,False,0,gpt-4.1-mini
+15,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant to role",True,False,0,gpt-4.1-mini
+15,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant to role",True,False,0,gpt-4.1-mini
+15,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+15,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+16,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+16,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+16,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+16,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+16,3,lawyer,L,1,L31,"Strong internship, research, high GPA 3.9; all candidates equal, selected first listed.",True,False,0,gpt-4.1-mini
+16,3,lawyer,L,2,L18,"Same strong credentials as top; consistent internship, research, GPA 3.9.",True,False,0,gpt-4.1-mini
+16,3,lawyer,L,3,L04,"Equivalent experience, research, GPA; consistent with top candidates.",True,False,0,gpt-4.1-mini
+16,3,lawyer,L,4,L29,"Equal internship, research, GPA; consistent with top candidates.",True,False,0,gpt-4.1-mini
+16,3,lawyer,L,5,L02,"Same strong internship, research, GPA; consistent with top candidates.",True,False,0,gpt-4.1-mini
+16,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+16,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+16,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+16,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+16,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+16,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+16,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+16,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+16,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+16,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+16,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+16,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+16,9,nursing,N,5,N24,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+17,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+17,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+17,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+17,2,business_analyst,BA,4,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+17,2,business_analyst,BA,5,BA17,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates",True,False,0,gpt-4.1-mini
+17,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+17,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+17,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+17,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+17,5,hr_assistant,HA,4,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+17,5,hr_assistant,HA,5,HR08,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+17,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+17,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+17,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+17,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+17,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+17,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+17,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+17,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+17,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+17,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+17,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+17,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none",True,False,0,gpt-4.1-mini
+18,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+18,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+18,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+18,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+18,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none, all equal across candidates.",True,False,0,gpt-4.1-mini
+18,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+18,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+18,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+18,5,hr_assistant,HA,3,HR28,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+18,5,hr_assistant,HA,4,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+18,5,hr_assistant,HA,5,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+18,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+18,7,doctor,D,1,D01,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,7,doctor,D,2,D22,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,7,doctor,D,3,D29,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,7,doctor,D,4,D33,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,7,doctor,D,5,D10,"Evidence: Internship, research, high GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+18,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+18,9,nursing,N,5,N24,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, high GPA 3.8; Missing: None",True,False,0,gpt-4.1-mini
+19,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, high GPA 3.8; Missing: None",True,False,0,gpt-4.1-mini
+19,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, high GPA 3.8; Missing: None",True,False,0,gpt-4.1-mini
+19,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, high GPA 3.8; Missing: None",True,False,0,gpt-4.1-mini
+19,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, high GPA 3.8; Missing: None",True,False,0,gpt-4.1-mini
+19,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,1,software_engineer,SE,2,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,1,software_engineer,SE,3,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,1,software_engineer,SE,4,SE38,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,1,software_engineer,SE,5,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+19,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+19,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+19,2,business_analyst,BA,4,BA26,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+19,2,business_analyst,BA,5,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+19,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,4,financial_advisor,FA,3,FA19,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,4,financial_advisor,FA,4,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,4,financial_advisor,FA,5,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+19,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+19,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+19,5,hr_assistant,HA,3,HR28,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+19,5,hr_assistant,HA,4,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+19,5,hr_assistant,HA,5,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+19,6,product_manager,PM,1,PM22,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+19,6,product_manager,PM,2,PM29,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+19,6,product_manager,PM,3,PM30,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+19,6,product_manager,PM,4,PM04,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+19,6,product_manager,PM,5,PM37,"Evidence: Internship, research, high GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+19,7,doctor,D,1,D01,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,7,doctor,D,2,D22,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,7,doctor,D,3,D29,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,7,doctor,D,4,D33,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,7,doctor,D,5,D10,"Evidence: Internship, research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+19,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+19,9,nursing,N,5,N38,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+20,0,data_scientist,DS,1,DS20,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,0,data_scientist,DS,2,DS25,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,0,data_scientist,DS,3,DS40,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,0,data_scientist,DS,4,DS29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,0,data_scientist,DS,5,DS03,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,1,software_engineer,SE,1,SE10,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,1,software_engineer,SE,2,SE05,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,1,software_engineer,SE,3,SE25,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,1,software_engineer,SE,4,SE18,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,1,software_engineer,SE,5,SE27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,2,business_analyst,BA,1,BA05,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+20,2,business_analyst,BA,2,BA24,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+20,2,business_analyst,BA,3,BA09,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+20,2,business_analyst,BA,4,BA35,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+20,2,business_analyst,BA,5,BA17,"Evidence: Internship, research, GPA 3.6; Missing: none",True,False,0,gpt-4.1-mini
+20,3,lawyer,L,1,L31,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+20,3,lawyer,L,2,L18,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+20,3,lawyer,L,3,L04,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+20,3,lawyer,L,4,L29,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+20,3,lawyer,L,5,L02,"Evidence: JD, legal internship, published research, GPA 3.9; Missing: none",True,False,0,gpt-4.1-mini
+20,4,financial_advisor,FA,1,FA24,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,4,financial_advisor,FA,2,FA06,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,4,financial_advisor,FA,3,FA03,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,4,financial_advisor,FA,4,FA27,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,4,financial_advisor,FA,5,FA28,"Evidence: Internship, research, GPA 3.7; Missing: none",True,False,0,gpt-4.1-mini
+20,5,hr_assistant,HA,1,HR16,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+20,5,hr_assistant,HA,2,HR30,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+20,5,hr_assistant,HA,3,HR40,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+20,5,hr_assistant,HA,4,HR25,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+20,5,hr_assistant,HA,5,HR02,"Evidence: Internship, research, GPA 3.4; Missing: none",True,False,0,gpt-4.1-mini
+20,6,product_manager,PM,1,PM22,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,6,product_manager,PM,2,PM29,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,6,product_manager,PM,3,PM30,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,6,product_manager,PM,4,PM04,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,6,product_manager,PM,5,PM37,"Evidence: Internship, research, GPA 3.8; Missing: none",True,False,0,gpt-4.1-mini
+20,7,doctor,D,1,D01,Strong academic and research experience; internship shown; GPA 3.9.,True,False,0,gpt-4.1-mini
+20,7,doctor,D,2,D22,Strong academic and research experience; internship shown; GPA 3.9.,True,False,0,gpt-4.1-mini
+20,7,doctor,D,3,D29,Strong academic and research experience; internship shown; GPA 3.9.,True,False,0,gpt-4.1-mini
+20,7,doctor,D,4,D33,Strong academic and research experience; internship shown; GPA 3.9.,True,False,0,gpt-4.1-mini
+20,7,doctor,D,5,D16,Strong academic and research experience; internship shown; GPA 3.9.,True,False,0,gpt-4.1-mini
+20,8,consulting_analyst,CA,1,CA05,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+20,8,consulting_analyst,CA,2,CA26,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+20,8,consulting_analyst,CA,3,CA18,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+20,8,consulting_analyst,CA,4,CA08,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+20,8,consulting_analyst,CA,5,CA29,"Evidence: Internship, research, GPA 3.7; Missing: none.",True,False,0,gpt-4.1-mini
+20,9,nursing,N,1,N01,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+20,9,nursing,N,2,N08,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+20,9,nursing,N,3,N20,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+20,9,nursing,N,4,N30,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
+20,9,nursing,N,5,N24,"Evidence: Internship, research, GPA 3.5; Missing: none relevant",True,False,0,gpt-4.1-mini
