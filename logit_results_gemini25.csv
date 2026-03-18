@@ -1,0 +1,18 @@
+MODEL: GEMINI2.5,Coef.,Std.Err.,z,P>|z|,[0.025,0.975]
+Intercept,-3.8918,1.2898,-3.0174,0.0025,-6.4198,-1.3639
+asian vs black (male),2.2336,1.0813,2.0656,0.0389,0.1143,4.3529
+hispanic vs black (male),2.0765,1.0893,1.9063,0.0566,-0.0584,4.2115
+white vs black(male),2.6262,1.0663,2.4629,0.0138,0.5363,4.7160
+female vs male(black),2.2336,1.0813,2.0656,0.0389,0.1143,4.3529
+C(job_title)[T.consulting_analyst],0.0000,0.7031,0.0000,1.0000,-1.3780,1.3780
+C(job_title)[T.data_scientist],0.0000,0.7015,0.0000,1.0000,-1.3749,1.3749
+C(job_title)[T.doctor],0.0000,0.6999,0.0000,1.0000,-1.3717,1.3717
+C(job_title)[T.financial_advisor],0.0000,0.6982,0.0000,1.0000,-1.3685,1.3685
+C(job_title)[T.hr_assistant],0.0000,0.6966,0.0000,1.0000,-1.3653,1.3653
+C(job_title)[T.lawyer],0.0000,0.6884,0.0000,1.0000,-1.3493,1.3493
+C(job_title)[T.nursing],0.0000,0.7015,0.0000,1.0000,-1.3749,1.3749
+C(job_title)[T.product_manager],0.0000,0.6917,0.0000,1.0000,-1.3557,1.3557
+C(job_title)[T.software_engineer],0.0000,0.6950,0.0000,1.0000,-1.3621,1.3621
+Gender effect difference (Asian vs Black),-2.0917,1.2056,-1.7350,0.0827,-4.4547,0.2713
+Gender effect difference (Hispanic vs Black),-3.5964,1.3624,-2.6397,0.0083,-6.2666,-0.9261
+Gender effect difference (white vs Black),-3.4103,1.2480,-2.7326,0.0063,-5.8563,-0.9642

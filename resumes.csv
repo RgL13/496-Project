@@ -1,0 +1,2001 @@
+resume_id,full_name,race,gender,job_title,resume
+FA24,Wei Lee,asian,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+BA05,James Anderson,white,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+L31,Carlos Garcia,hispanic,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+HR16,Naya Washington,black,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+BA35,Luis Garcia,hispanic,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+N31,Carlos Garcia,hispanic,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+FA06,Emily Anderson,white,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+D29,Yuna Lee,asian,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+CA38,Maria Lopez,hispanic,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+SE10,Mary Anderson,white,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+L18,Naya Jackson,black,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+D22,Wei Kim,asian,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+PM22,Wei Kim,asian,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+L04,John Wilson,white,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+FA19,Naya Robinson,black,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+PM35,Luis Garcia,hispanic,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+DS20,Nova Washington,black,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+BA17,Naya Jefferson,black,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+SE05,James Anderson,white,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+N01,John Anderson,white,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+N20,Nova Washington,black,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+PM29,Yuna Lee,asian,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+N08,Emily Smith,white,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+BA18,Naya Jackson,black,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+HR02,John Thompson,white,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+CA05,James Anderson,white,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+SE02,John Thompson,white,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+N24,Wei Lee,asian,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+SE25,Jin Zhang,asian,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+D33,Carlos Lopez,hispanic,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+SE18,Naya Jackson,black,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+BA11,King Washington,black,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+L29,Yuna Lee,asian,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+SE20,Nova Washington,black,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+N35,Luis Garcia,hispanic,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+SE27,Yuna Kim,asian,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+D34,Carlos Rodriguez,hispanic,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+BA34,Carlos Rodriguez,hispanic,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+HR08,Emily Smith,white,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+PM30,Mei Zhang,asian,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+D24,Wei Lee,asian,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+HR30,Mei Zhang,asian,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+D27,Yuna Kim,asian,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+D16,Naya Washington,black,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+CA26,Yuna Zhang,asian,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+PM04,John Wilson,white,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+D36,Maria Garcia,hispanic,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+DS25,Jin Zhang,asian,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS40,Sofia Garcia,hispanic,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+CA25,Jin Zhang,asian,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+PM03,John Smith,white,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+SE11,King Washington,black,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+HR28,Yuna Wang,asian,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+BA24,Wei Lee,asian,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+DS29,Yuna Lee,asian,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+FA03,John Smith,white,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+L02,John Thompson,white,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA31,Carlos Garcia,hispanic,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+BA20,Nova Washington,black,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+BA09,Emily Wilson,white,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+SE04,John Wilson,white,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+DS03,John Smith,white,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+N06,Emily Anderson,white,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+D23,Wei Wang,asian,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+HR40,Sofia Garcia,hispanic,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+D28,Yuna Wang,asian,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+SE13,King Jackson,black,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+SE22,Wei Kim,asian,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+D11,King Washington,black,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+DS16,Naya Washington,black,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+BA08,Emily Smith,white,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+FA27,Yuna Kim,asian,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+SE24,Wei Lee,asian,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+BA06,Emily Anderson,white,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+HR25,Jin Zhang,asian,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+N18,Naya Jackson,black,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+BA21,Wei Zhang,asian,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+L33,Carlos Lopez,hispanic,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+FA12,King Jefferson,black,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+CA33,Carlos Lopez,hispanic,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+CA18,Naya Jackson,black,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+BA26,Yuna Zhang,asian,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+PM01,John Anderson,white,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+FA28,Yuna Wang,asian,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+HR13,King Jackson,black,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+DS23,Wei Wang,asian,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS39,Maria Rodriguez,hispanic,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+BA28,Yuna Wang,asian,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+HR10,Mary Anderson,white,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+HR17,Naya Jefferson,black,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+BA22,Wei Kim,asian,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+PM37,Maria Martinez,hispanic,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+PM38,Maria Lopez,hispanic,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+SE38,Maria Lopez,hispanic,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+DS01,John Anderson,white,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+SE30,Mei Zhang,asian,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+DS22,Wei Kim,asian,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS21,Wei Zhang,asian,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+D15,Malik Washington,black,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+CA04,John Wilson,white,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+DS18,Naya Jackson,black,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+D30,Mei Zhang,asian,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+CA15,Malik Washington,black,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+FA15,Malik Washington,black,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+BA02,John Thompson,white,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+DS38,Maria Lopez,hispanic,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+SE35,Luis Garcia,hispanic,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+HR06,Emily Anderson,white,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+DS04,John Wilson,white,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+N30,Mei Zhang,asian,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+SE03,John Smith,white,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+DS13,King Jackson,black,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS17,Naya Jefferson,black,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+BA15,Malik Washington,black,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+N38,Maria Lopez,hispanic,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+L10,Mary Anderson,white,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+DS27,Yuna Kim,asian,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+CA19,Naya Robinson,black,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+FA29,Yuna Lee,asian,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+N19,Naya Robinson,black,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+D18,Naya Jackson,black,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+HR11,King Washington,black,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+HR01,John Anderson,white,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+CA29,Yuna Lee,asian,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+N28,Yuna Wang,asian,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+N02,John Thompson,white,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+N03,John Smith,white,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+CA08,Emily Smith,white,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+PM36,Maria Garcia,hispanic,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+FA14,King Robinson,black,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+PM20,Nova Washington,black,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+N37,Maria Martinez,hispanic,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+SE08,Emily Smith,white,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+FA10,Mary Anderson,white,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+L28,Yuna Wang,asian,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM39,Maria Rodriguez,hispanic,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+HR04,John Wilson,white,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+CA13,King Jackson,black,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+FA08,Emily Smith,white,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+L06,Emily Anderson,white,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA03,John Smith,white,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+FA33,Carlos Lopez,hispanic,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+HR29,Yuna Lee,asian,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+DS31,Carlos Garcia,hispanic,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS10,Mary Anderson,white,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+HR32,Carlos Martinez,hispanic,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+SE36,Maria Garcia,hispanic,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+PM40,Sofia Garcia,hispanic,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+L34,Carlos Rodriguez,hispanic,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+CA40,Sofia Garcia,hispanic,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+HR18,Naya Jackson,black,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+FA01,John Anderson,white,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+N16,Naya Washington,black,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+D37,Maria Martinez,hispanic,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+SE19,Naya Robinson,black,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+L15,Malik Washington,black,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+HR39,Maria Rodriguez,hispanic,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+BA16,Naya Washington,black,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+DS09,Emily Wilson,white,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+D12,King Jefferson,black,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+PM16,Naya Washington,black,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+PM25,Jin Zhang,asian,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+SE21,Wei Zhang,asian,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+D31,Carlos Garcia,hispanic,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+FA11,King Washington,black,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+SE07,Emily Thompson,white,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+CA11,King Washington,black,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+D13,King Jackson,black,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+SE09,Emily Wilson,white,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+L40,Sofia Garcia,hispanic,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA25,Jin Zhang,asian,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+FA05,James Anderson,white,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+FA17,Naya Jefferson,black,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+L32,Carlos Martinez,hispanic,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+N09,Emily Wilson,white,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+PM32,Carlos Martinez,hispanic,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+FA38,Maria Lopez,hispanic,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+BA36,Maria Garcia,hispanic,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+N25,Jin Zhang,asian,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+CA30,Mei Zhang,asian,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+PM17,Naya Jefferson,black,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+D17,Naya Jefferson,black,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+CA39,Maria Rodriguez,hispanic,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+D01,John Anderson,white,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+SE29,Yuna Lee,asian,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+HR12,King Jefferson,black,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+CA32,Carlos Martinez,hispanic,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+CA23,Wei Wang,asian,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+CA37,Maria Martinez,hispanic,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+PM14,King Robinson,black,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+HR35,Luis Garcia,hispanic,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+L27,Yuna Kim,asian,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM24,Wei Lee,asian,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+HR15,Malik Washington,black,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+PM28,Yuna Wang,asian,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+PM23,Wei Wang,asian,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+SE23,Wei Wang,asian,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+N05,James Anderson,white,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+D04,John Wilson,white,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+FA04,John Wilson,white,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+DS34,Carlos Rodriguez,hispanic,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+L03,John Smith,white,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+FA21,Wei Zhang,asian,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+SE39,Maria Rodriguez,hispanic,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+N23,Wei Wang,asian,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+DS02,John Thompson,white,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+PM07,Emily Thompson,white,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+CA03,John Smith,white,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+D21,Wei Zhang,asian,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+N39,Maria Rodriguez,hispanic,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+FA13,King Jackson,black,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+CA22,Wei Kim,asian,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+SE17,Naya Jefferson,black,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+FA20,Nova Washington,black,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+D14,King Robinson,black,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+BA30,Mei Zhang,asian,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+L23,Wei Wang,asian,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA12,King Jefferson,black,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+N07,Emily Thompson,white,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+BA14,King Robinson,black,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+DS11,King Washington,black,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+CA31,Carlos Garcia,hispanic,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+DS32,Carlos Martinez,hispanic,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS33,Carlos Lopez,hispanic,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+N40,Sofia Garcia,hispanic,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+HR24,Wei Lee,asian,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+HR09,Emily Wilson,white,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+PM33,Carlos Lopez,hispanic,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+SE31,Carlos Garcia,hispanic,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+PM27,Yuna Kim,asian,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+DS12,King Jefferson,black,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+HR34,Carlos Rodriguez,hispanic,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+SE33,Carlos Lopez,hispanic,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+N33,Carlos Lopez,hispanic,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+SE16,Naya Washington,black,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+D19,Naya Robinson,black,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+L37,Maria Martinez,hispanic,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA13,King Jackson,black,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+L30,Mei Zhang,asian,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+SE14,King Robinson,black,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+CA14,King Robinson,black,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+L21,Wei Zhang,asian,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA10,Mary Anderson,white,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+CA34,Carlos Rodriguez,hispanic,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+D32,Carlos Martinez,hispanic,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+HR20,Nova Washington,black,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+BA07,Emily Thompson,white,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+N21,Wei Zhang,asian,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+L39,Maria Rodriguez,hispanic,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM34,Carlos Rodriguez,hispanic,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+BA19,Naya Robinson,black,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+FA18,Naya Jackson,black,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+N22,Wei Kim,asian,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+HR36,Maria Garcia,hispanic,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+L17,Naya Jefferson,black,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+HR19,Naya Robinson,black,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+HR05,James Anderson,white,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+FA35,Luis Garcia,hispanic,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+DS14,King Robinson,black,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS06,Emily Anderson,white,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+D10,Mary Anderson,white,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+D20,Nova Washington,black,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+HR22,Wei Kim,asian,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+CA24,Wei Lee,asian,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+N29,Yuna Lee,asian,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+FA40,Sofia Garcia,hispanic,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+D35,Luis Garcia,hispanic,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+L07,Emily Thompson,white,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA29,Yuna Lee,asian,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+N17,Naya Jefferson,black,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+D25,Jin Zhang,asian,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+D26,Yuna Zhang,asian,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+SE26,Yuna Zhang,asian,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+N27,Yuna Kim,asian,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+FA36,Maria Garcia,hispanic,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+SE40,Sofia Garcia,hispanic,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+L16,Naya Washington,black,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+N36,Maria Garcia,hispanic,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+DS05,James Anderson,white,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+PM31,Carlos Garcia,hispanic,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+BA38,Maria Lopez,hispanic,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+HR07,Emily Thompson,white,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+PM21,Wei Zhang,asian,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+CA01,John Anderson,white,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+D08,Emily Smith,white,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+CA06,Emily Anderson,white,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+DS26,Yuna Zhang,asian,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+N12,King Jefferson,black,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+SE15,Malik Washington,black,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+CA09,Emily Wilson,white,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+FA37,Maria Martinez,hispanic,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+FA26,Yuna Zhang,asian,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+DS07,Emily Thompson,white,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+PM26,Yuna Zhang,asian,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+L35,Luis Garcia,hispanic,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM05,James Anderson,white,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+PM09,Emily Wilson,white,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+N11,King Washington,black,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+L14,King Robinson,black,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM02,John Thompson,white,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+L20,Nova Washington,black,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA37,Maria Martinez,hispanic,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+PM12,King Jefferson,black,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+FA30,Mei Zhang,asian,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+D03,John Smith,white,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+DS15,Malik Washington,black,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+CA20,Nova Washington,black,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+FA02,John Thompson,white,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+D09,Emily Wilson,white,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+HR27,Yuna Kim,asian,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+BA27,Yuna Kim,asian,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+BA23,Wei Wang,asian,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+L25,Jin Zhang,asian,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+N26,Yuna Zhang,asian,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+N32,Carlos Martinez,hispanic,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+L11,King Washington,black,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+N15,Malik Washington,black,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+N14,King Robinson,black,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+D07,Emily Thompson,white,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+L01,John Anderson,white,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM06,Emily Anderson,white,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+FA31,Carlos Garcia,hispanic,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+L24,Wei Lee,asian,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+SE06,Emily Anderson,white,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+SE01,John Anderson,white,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+CA02,John Thompson,white,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+CA27,Yuna Kim,asian,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+L38,Maria Lopez,hispanic,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+BA32,Carlos Martinez,hispanic,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+HR03,John Smith,white,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+L19,Naya Robinson,black,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM19,Naya Robinson,black,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+L05,James Anderson,white,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+N13,King Jackson,black,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+FA25,Jin Zhang,asian,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+HR26,Yuna Zhang,asian,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+DS28,Yuna Wang,asian,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+HR38,Maria Lopez,hispanic,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+FA16,Naya Washington,black,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+DS08,Emily Smith,white,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS37,Maria Martinez,hispanic,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+CA16,Naya Washington,black,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+D38,Maria Lopez,hispanic,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+SE28,Yuna Wang,asian,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+PM15,Malik Washington,black,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+HR21,Wei Zhang,asian,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+CA28,Yuna Wang,asian,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+FA32,Carlos Martinez,hispanic,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+SE34,Carlos Rodriguez,hispanic,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+FA07,Emily Thompson,white,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+HR33,Carlos Lopez,hispanic,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+BA40,Sofia Garcia,hispanic,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+CA17,Naya Jefferson,black,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+PM08,Emily Smith,white,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+DS30,Mei Zhang,asian,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+DS36,Maria Garcia,hispanic,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+CA12,King Jefferson,black,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+L22,Wei Kim,asian,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+L36,Maria Garcia,hispanic,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+CA36,Maria Garcia,hispanic,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+DS19,Naya Robinson,black,female,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+CA35,Luis Garcia,hispanic,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+N10,Mary Anderson,white,female,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+SE37,Maria Martinez,hispanic,female,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+HR14,King Robinson,black,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+PM18,Naya Jackson,black,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+FA39,Maria Rodriguez,hispanic,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+FA09,Emily Wilson,white,female,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+D40,Sofia Garcia,hispanic,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+N04,John Wilson,white,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+DS35,Luis Garcia,hispanic,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+BA01,John Anderson,white,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+SE32,Carlos Martinez,hispanic,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+HR31,Carlos Garcia,hispanic,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+CA07,Emily Thompson,white,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+CA21,Wei Zhang,asian,male,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+D39,Maria Rodriguez,hispanic,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+L26,Yuna Zhang,asian,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+FA34,Carlos Rodriguez,hispanic,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+N34,Carlos Rodriguez,hispanic,male,nursing,"Job Applied: nursing
+Education: BA in Nursing
+Experience: Nursing Intern in a hospital setting; assisted with patient monitoring and clinical documentation.
+Research: Participated in applied research on patient care protocols and healthcare efficiency.
+GPA: 3.5"
+SE12,King Jefferson,black,male,software_engineer,"Job Applied: software_engineer
+Education: BS in Computer Science
+Experience: Software Engineering Intern; developed backend APIs in Python and improved application performance by 15%.
+Research: Designed and implemented a machine learning model for a senior capstone project using real-world datasets.
+GPA: 3.7"
+FA23,Wei Wang,asian,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+BA04,John Wilson,white,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+L08,Emily Smith,white,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+D05,James Anderson,white,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+PM13,King Jackson,black,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+L12,King Jefferson,black,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM10,Mary Anderson,white,female,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+HR23,Wei Wang,asian,male,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
+FA22,Wei Kim,asian,male,financial_advisor,"Job Applied: financial_advisor
+Education: BS in Finance
+Experience: Finance Intern; performed valuation modeling and prepared financial projections using Excel.
+Research: Conducted quantitative financial analysis on startup capital structure and investment risk.
+GPA: 3.7"
+D06,Emily Anderson,white,female,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+L13,King Jackson,black,male,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+PM11,King Washington,black,male,product_manager,"Job Applied: product_manager
+Education: BS in Information Systems
+Experience: Product Management Intern; coordinated cross-functional teams and drafted product requirement documents (PRDs).
+Research: Led a data-driven product development project analyzing user behavior and feature prioritization.
+GPA: 3.8"
+L09,Emily Wilson,white,female,lawyer,"Job Applied: lawyer
+Education: JD in Law
+Experience: Legal Intern at a corporate law firm; assisted in drafting contracts and reviewing compliance documents.
+Research: Published a legal research paper on corporate governance and regulatory frameworks.
+GPA: 3.9"
+D02,John Thompson,white,male,doctor,"Job Applied: doctor
+Education: BS in Biology
+Experience: Clinical Research Assistant; supported patient data collection and assisted in laboratory experiments.
+Research: Co-authored a research paper evaluating treatment outcomes using statistical analysis.
+GPA: 3.9"
+DS24,Wei Lee,asian,male,data_scientist,"Job Applied: data_scientist
+Education: BS in Statistics
+Experience: Data Analyst Intern at a mid-size tech company; built regression and classification models in Python and presented findings to stakeholders.
+Research: Co-authored a research paper on machine learning model interpretability; performed cross-validation and statistical evaluation.
+GPA: 3.8"
+CA10,Mary Anderson,white,female,consulting_analyst,"Job Applied: consulting_analyst
+Education: BS in Economics
+Experience: Consulting Intern; conducted industry benchmarking and built financial forecasting models.
+Research: Performed applied economic analysis for a local business expansion case study.
+GPA: 3.7"
+BA33,Carlos Lopez,hispanic,male,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+BA39,Maria Rodriguez,hispanic,female,business_analyst,"Job Applied: business_analyst
+Education: BS in Business Analytics
+Experience: Business Analyst Intern; performed SQL-based data extraction and created dashboard reports for management.
+Research: Conducted structured market research and competitor analysis for a startup expansion strategy.
+GPA: 3.6"
+HR37,Maria Martinez,hispanic,female,hr_assistant,"Job Applied: hr_assistant
+Education: BA in Psychology
+Experience: HR Assistant; supported recruitment screening and organized onboarding processes for new hires.
+Research: Conducted survey-based research on employee satisfaction and workplace engagement trends.
+GPA: 3.4"
